@@ -1,4 +1,4 @@
-![App shot](https://github.com/hudy9x/namviek/assets/95471659/00cab20a-747a-4cf5-8f5e-105f314f7e2f)
+
 
 Namviek is an open-source project manager for small teams with low budget. It includes essential features for running your team.
 
@@ -15,13 +15,7 @@ This project is a great fit for people with developer skills who are running a s
 - MongoDB
 - Redis
 
-## What features are packed in ?
 
-As mentioned before, this app includes some essential features for a small team such as:
-
-![Features](https://github.com/hudy9x/namviek/assets/95471659/28b1d157-e765-49ab-b7fd-0f3c441661ad)
-
-## How to use it.
 
 ### Run with docker
 
